@@ -1,0 +1,2 @@
+# tugasPokedex
+Pokedex_825180059_LukeIrawan
